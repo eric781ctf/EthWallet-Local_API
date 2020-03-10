@@ -1,6 +1,9 @@
-#Offline RestfulAPI work withWallet 
+Offline RestfulAPI work withWallet 
+=====
+
 API
 -----
+
 ###newAccount => Post<br>
 ####create new account{data:’password’}<br>
 ###Privatekey => Get<br>

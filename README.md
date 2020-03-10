@@ -4,7 +4,7 @@ Offline RestfulAPI work withWallet
 API
 -----
 
-*newAccount => Post<br>
+* newAccount => Post<br>
 ####create new account{data:’password’}<br>
 ###Privatekey => Get<br>
 ####Show 24 mnemonics via QR code and response<br>
